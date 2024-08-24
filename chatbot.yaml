@@ -4,7 +4,7 @@ entryPoint: main.sc
 
 botEngine: v2
 language: ru
-
+unknownLanguageMessage: Извините, этот язык не поддерживается
 tests:
   include:
     - test.xml
